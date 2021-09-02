@@ -1,4 +1,5 @@
-[submodule "VueJS/PrismicVue.js"]
-	path = VueJS/PrismicVue.js
-	url = https://github.com/hendyd/PrismicVue.js.git
-	branch = master
+[submodule "PHP/Prismic-CMS-Demo"]
+	path = PHP/Prismic-CMS-Demo
+	url = https://github.com/hendyd/Prismic-CMS-Demo.git
+	branch = main
+
