@@ -1,0 +1,4 @@
+[submodule "VueJS/PrismicVue.js"]
+	path = VueJS/PrismicVue.js
+	url = https://github.com/hendyd/PrismicVue.js.git
+	branch = master
