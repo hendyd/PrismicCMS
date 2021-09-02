@@ -2,4 +2,7 @@
 	path = PHP/Prismic-CMS-Demo
 	url = https://github.com/hendyd/Prismic-CMS-Demo.git
 	branch = main
-
+[submodule "VueJS/PrismicVue.js"]
+	path = VueJS/PrismicVue.js
+	url = https://github.com/hendyd/PrismicVue.js.git
+	branch = master
