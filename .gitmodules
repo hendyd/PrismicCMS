@@ -6,3 +6,7 @@
 	path = PHP/Prismic-CMS-Demo
 	url = https://github.com/hendyd/Prismic-CMS-Demo.git
 	branch = main
+[submodule "Gatsby/GatsbyJS"]
+	path = Gatsby/GatsbyJS
+	url = https://github.com/hendyd/PrismicCMS_Gatsby.git
+	branch = master
